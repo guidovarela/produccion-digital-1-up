@@ -17,6 +17,9 @@
         {url: "https://www.uifrommars.com/arquitectura-de-la-informacion/", label: "Que es la Arq. de la Información?"},
         {url: "https://www.uifrommars.com/que-es-wireframe/", label: "Que es un Wireframe?"},
         {url: "https://developer.mozilla.org/es/docs/Web/HTML", label: "MDN HTML"},
+        {url:"https://moqups.com",label:"Moqups"},
+        {url:"https://whimsical.com",label:"Whimsical"},
+        // {url:"",label:""}
       ]
     },
     // {
