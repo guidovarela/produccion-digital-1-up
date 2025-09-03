@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+    /* Etiqueta */
+    body{
+        color:rgb(189, 73, 10);
+        }
+
+        h1{
+            font-family: "Arial";
+            text-align: center;
+        }
+        p{
+            font-family: "Arial";
+            color: blueviolet;
+        }
+        a{
+            color:crimson;
+        }
+
+/* selector Clase -> .nombre (ojo, tienen prefijo) */
+.destacado{
+    border:1px solid black;
+    padding: 5px;
+    margin: 10px 0;
+    color: aqua;
+    background-color: black;
+    }
+.bg1{background-color: tomato;}
+.bg2{background-color: rgb(19, 144, 217);}
+.bg3{background-color: rgb(12, 202, 113);}
+
+/* selector de ID -> #nombre* (es unico, no se puede repetir su uso)*/
+#main-frame{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+    </style>
+
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+<body>
+
+    <main id="main-frame">
+
+
+    <!-- sintaxis HTML
+    <inicio-tag atributo1="valor" atributo2="valor">
+        contenido
+    <cierre-tag>
+        
+        anidacion de etiquetas
+        <tag1>
+            <tag2>
+                <tag3>
+                </tag3>
+            </tag2>
+        </tag1>     
+    -->
+
+
+    <!-- etiquetas texto -->
+     <h1 >Laboratorio de Diseño 1</h1>
+     <h2 class="destacado bg2" title="esto es un h2">clase 3. CSS</h2>
+     <h2 title="esto es un h2">NUEVO TITULO</h2>
+     <!-- <h3>tit3</h3>
+     <h4>tit4</h4>
+    <h5>tit5</h5>
+    <h6>tit6</h6>     -->
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla perspiciatis quibusdam temporibus dignissimos itaque vitae illo, mollitia, modi dolor cum assumenda doloremque quas in. Laudantium veritatis sed quod non quidem!
+    </p>
+    <hr>
+    <p class="destacado">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum at, temporibus sequi fuga voluptatum, sit maiores cum voluptate adipisci aperiam dignissimos? Dolorum magni provident doloribus harum, laborum rerum facilis rem?
+    </p>
+    <hr>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptate delectus asperiores facilis neque quisquam id iste nisi hic mollitia suscipit nemo reprehenderit impedit officia pariatur nostrum, modi similique blanditiis.
+    </p>
+    
+
+    <hr>
+
+    <!-- enlaces / hipervínculos -->
+    
+    <!-- enlace externo -->
+    <a href="http://www.google.com.ar" target="_blank">Ir a Google</a>
+    <br>
+    <!-- enlace internos -->
+    <a href="contacto.html">ingresar al Contacto</a>
+    <!-- enlace email -->
+    <a href="mailto:mail@gmail.com?subject=Nuevo correo">Mail</a>
+    <!-- enlace tel -->
+    <a href="tel:112222222">telefono</a>
+    <!-- enlace whatsapp -->
+    <a href="https://wa.me/549114345678">Hablame por whatsapp</a>
+
+
+    <hr>
+
+    <img src="img/technical_dif.png" alt="contenido de accesibilidad">
+
+
+
+    </main>
+
+
+
+
+    
+</body>
+</html>
