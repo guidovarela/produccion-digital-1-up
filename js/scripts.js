@@ -22,6 +22,16 @@
         // {url:"",label:""}
       ]
     },
+    {
+      nro: 3,
+      titulo: "CSS, Hojas de estilo en cascada - Maquetacion",
+      pptLink: "materiales/Clase02_2025.pdf",
+      relatedLinks:[
+        {url:"https://developer.mozilla.org/es/docs/Web/CSS", label:"Documentacion CSS"},
+        {url: "https://lenguajecss.com/css/introduccion/que-es-css/", label:"Introduccion a CSS"},
+        {url: "https://codepen.io/Alejandrogrd/pen/gMZbWp", label:"CodePen - entorno de desarrollo  social para front-end"}
+      ]
+    }
     // {
     //   nro: 3,
     //   titulo: "JavaScript: Introducción y Manipulación del DOM",
