@@ -34,14 +34,16 @@
     },
     {
       nro: 4,
-      titulo: "Maquetacion y grilla",
+      titulo: "Maquetacion y grilla - Github",
       pptLink: "materiales/Clase04_2025.pdf",
       relatedLinks:[
         {url:"https://css-tricks.com/snippets/css/a-guide-to-flexbox/", label:"Flexbox"},
         {url: "https://lenguajecss.com/css/grid/que-es-grid/", label:"Grid System CSS"},
-        {url: "https://flexboxfroggy.com/#es", label:"Flexbox Froggy (🕹)"},
-        {url: "https://codingfantasy.com/games/flexboxadventure/play", label:"Flexbox Adventura (🕹)"},
-        {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🕹)"}
+        {url: "https://github.com", label:"Github"},
+        {url: "https://flexboxfroggy.com/#es", label:"Flexbox Froggy (🎮)"},
+        {url: "https://codingfantasy.com/games/flexboxadventure/play", label:"Flexbox Adventura (🎮)"},
+        {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🎮)"},
+        {url:"materiales/github.pps", label:"Presentacion Github"}
       ]
     }
     // {
