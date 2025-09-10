@@ -31,6 +31,18 @@
         {url: "https://lenguajecss.com/css/introduccion/que-es-css/", label:"Introduccion a CSS"},
         {url: "https://codepen.io/Alejandrogrd/pen/gMZbWp", label:"CodePen - entorno de desarrollo  social para front-end"}
       ]
+    },
+    {
+      nro: 4,
+      titulo: "Maquetacion y grilla",
+      pptLink: "materiales/Clase04_2025.pdf",
+      relatedLinks:[
+        {url:"https://css-tricks.com/snippets/css/a-guide-to-flexbox/", label:"Flexbox"},
+        {url: "https://lenguajecss.com/css/grid/que-es-grid/", label:"Grid System CSS"},
+        {url: "https://flexboxfroggy.com/#es", label:"Flexbox Froggy (🕹)"},
+        {url: "https://codingfantasy.com/games/flexboxadventure/play", label:"Flexbox Adventura (🕹)"},
+        {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🕹)"}
+      ]
     }
     // {
     //   nro: 3,
