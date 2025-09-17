@@ -45,6 +45,15 @@
         {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🎮)"},
         {url:"materiales/github.pps", label:"Presentacion Github"}
       ]
+    },
+    {
+      nro: 5,
+      titulo: "Responsive Design - Formularios",
+      pptLink: "materiales/Clase04_2025.pdf",
+      relatedLinks:[
+        {url:"https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/form", label:"Elemento Formulario "},
+        
+      ]
     }
     // {
     //   nro: 3,
