@@ -48,13 +48,14 @@
     },
     {
       nro: 5,
-      titulo: "Responsive Design - Formularios",
+      titulo: "Responsive Design - Fonts",
       pptLink: "materiales/Clase04_2025.pdf",
       relatedLinks:[
-        {url:"https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/form", label:"Elemento Formulario "},
+        {url:"https://fonts.google.com/", label:"Google Fonts "},
+        {url:"https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries", label:"Media queries "},
         
       ]
-    }
+    },
     // {
     //   nro: 3,
     //   titulo: "JavaScript: Introducción y Manipulación del DOM",
