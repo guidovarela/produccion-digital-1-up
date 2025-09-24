@@ -56,6 +56,17 @@
         
       ]
     },
+    {
+      nro: 6,
+      titulo: "Formularios - Correcciones Momento 2",
+      pptLink: "materiales/Clase04_2025.pdf",
+      relatedLinks:[
+        {url:"materiales/TPintegrador_50%.pdf", label:"Guia de TP Integrador - Momento 2 "},
+        {url:"https://www.palermo.edu/dyc/ciclo_asignatura/index.html", label:"Ciclo de Asignatura "},
+        {url:"https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/form", label:"Formularios HTML "},
+        
+      ]
+    },
     // {
     //   nro: 3,
     //   titulo: "JavaScript: Introducción y Manipulación del DOM",
