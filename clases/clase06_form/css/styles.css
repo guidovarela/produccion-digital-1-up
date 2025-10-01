@@ -72,6 +72,15 @@ body{
         margin-top:20px;
         text-align: center;
     }
+    .nav-bar a{
+        background: rgb(228, 228, 228);
+        padding: 20px;
+        text-decoration: none;
+        color: black;
+        }
+        .nav-bar a:hover{
+            background: rgb(163, 163, 163);
+        }
 
 #main-content{
     margin: 10px;
@@ -108,7 +117,52 @@ body{
         }
     
 
+/* Formulario - selectores avanzados
+espacio -> anidacion
+, -> agrupamiento de selectores
+etiqueta[atr="valor"] -> etiqueta + atributo
 
+*/
+
+#formContacto input,#formContacto select{
+    width: 80%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+#formContacto div{
+    margin-bottom: 15px;
+}
+
+#formContacto input[type="checkbox"],#formContacto input[type="radio"]{
+    width: auto;
+}
+
+#formContacto input[type="submit"]{
+    width: 30%;
+    background: rgb(88, 88, 230);
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+/* eventos - pseudoclases + pseudoelementos */
+#formContacto input[type="submit"]:hover{
+    background: rgb(127, 127, 228);
+}
+#formContacto input[type="submit"]:active{
+    background: rgb(127, 127, 228);
+}
+#formContacto input:required,#formContacto select:required{
+    border-bottom: 5px solid gold;
+}
+/* :valid y :invalid */
+
+#formContacto input:valid,#formContacto select:valid{
+    border-bottom: 5px solid rgb(16, 190, 51);
+}
 
 
 

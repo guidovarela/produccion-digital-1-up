@@ -59,7 +59,7 @@
     {
       nro: 6,
       titulo: "Formularios - Correcciones Momento 2",
-      pptLink: "materiales/Clase04_2025.pdf",
+      pptLink: "materiales/Clase05_2025.pdf",
       relatedLinks:[
         {url:"materiales/tpintegrador_momento2.pdf", label:"Guia de TP Integrador - Momento 2 "},
         {url:"https://www.palermo.edu/dyc/ciclo_asignatura/index.html", label:"Ciclo de Asignatura "},
