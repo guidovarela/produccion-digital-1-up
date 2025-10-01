@@ -1,0 +1,117 @@
+/* comentario multilinea */
+
+
+/* 
+selector {
+    propiedad1: valor;
+    propiedad2: valor;
+    }
+*/
+
+/* selectores: etiqueta, clase, ID, universal */
+/* Universal 
+*{
+    margin: 0;
+    padding: 0;
+    }*/
+    
+    /* Etiqueta 
+    body{
+        color:rgb(189, 73, 10);
+        }
+
+        h1{
+            font-family: "Arial";
+            text-align: center;
+        }
+        p{
+            font-family: "Arial";
+            color: blueviolet;
+        }
+        a{
+            color:crimson;
+        }*/
+
+/* selector Clase -> .nombre (ojo, tienen prefijo) */
+.destacado{
+    border:1px solid black;
+    padding: 5px;
+    margin: 10px 0;
+    color: aqua;
+    background-color: black;
+    }
+.bg1{background-color: tomato;}
+.bg2{background-color: rgb(19, 144, 217);}
+.bg3{background-color: rgb(12, 202, 113);}
+
+/* selector de ID -> #nombre* (es unico, no se puede repetir su uso)*/
+#main-frame{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+/* Maqueta */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    padding: 20px;
+    background-color: beige;
+    }
+    h1{
+        margin: 0;
+        text-align: center;
+    }
+    .nav-bar{
+        margin-top:20px;
+        text-align: center;
+    }
+
+#main-content{
+    margin: 10px;
+    padding: 10px;
+    }
+    article{
+        border: 1px solid rgb(198, 198, 198);
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding: 10px;
+        background-color: rgb(114, 215, 233);
+    }
+    /* selector anidado 
+    article a{*/
+    .linksArticle{
+        padding: 10px;
+        background-color: rgb(159, 159, 159);
+        text-decoration: none;
+        color: white;
+        border-radius: 5px;
+        }
+
+    .footer{
+        background-color: rgb(54, 54, 54);
+        color: white;
+        padding: 30px;
+        }
+        .copy{
+            text-align: center;
+            font-size: 18px;}
+        .credit{
+            text-align: center; 
+            font-size: 14px;
+        }
+    
+
+
+
+
+
+
+
+    
