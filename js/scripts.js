@@ -67,6 +67,15 @@
         
       ]
     },
+    {
+      nro: 7,
+      titulo: "Frameworks - Bootstrap",
+      pptLink: "materiales/Clase07_2025.pdf",
+      relatedLinks:[
+        {url:"https://getbootstrap.com/", label:"Bootstrap"},
+        {url:"https://youtu.be/XAUBr0eegfQ?si=qf7YzCtRAtDtq0-R", label:"Bootstrap, Porque sí y porque no"},        
+      ]
+    },
     // {
     //   nro: 3,
     //   titulo: "JavaScript: Introducción y Manipulación del DOM",
