@@ -83,7 +83,7 @@
       pptLink: "materiales/Clase07_2025.pdf",
       relatedLinks:[
         {url:"https://getbootstrap.com/docs/5.3/components/", label:"Componentes Bootstrap"},
-        {url:"../clases/clase08/ejeercicioBootstrap.jpg", label:"Archivos de Clase"},        
+        {url:"clases/clase08/ejercicioBootstrap.jpg", label:"Archivos de Clase"},        
       ]
     },
     // {
