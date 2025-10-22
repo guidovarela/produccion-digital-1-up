@@ -74,7 +74,7 @@
       relatedLinks:[
         {url:"https://getbootstrap.com/", label:"Bootstrap"},
         {url:"https://youtu.be/XAUBr0eegfQ?si=qf7YzCtRAtDtq0-R", label:"Bootstrap, Porque sí y porque no"},
-        {url:"../clases/clase07", label:"Archivos de Clase"},        
+        {url:"clases/clase07", label:"Archivos de Clase"},        
       ]
     },,
     {
@@ -83,7 +83,7 @@
       pptLink: "materiales/Clase07_2025.pdf",
       relatedLinks:[
         {url:"https://getbootstrap.com/docs/5.3/components/", label:"Componentes Bootstrap"},
-        {url:"clases/clase08/ejercicioBootstrap.jpg", label:"Archivos de Clase"},        
+        {url:"clases/clase08/ejercicioBootstrap.jpg", label:"Ejercicio Maquetacion"},        
       ]
     },
     // {

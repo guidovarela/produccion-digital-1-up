@@ -1,0 +1,26 @@
+/* variables */
+:root{
+    --header: #00aeac;
+    --header2: #069291;
+    --text:#232a34;
+    --slider: linear-gradient(90deg,#8233e8,#45256f)
+}
+/* fondos */
+.bg1{background: var(--header);}
+.bg2{background: var(--header2);}
+.bg3{background: #45256f;}
+.bg4{background: #929292;}
+.bg5{background: var(--text);}
+
+body{
+    color:var(--text)
+}
+.spacer{
+    /* height: 30px; */
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.slider{
+    /* height: 300px;
+    background: var(--slider); */
+}
