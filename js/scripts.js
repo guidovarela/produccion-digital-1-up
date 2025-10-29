@@ -76,7 +76,7 @@
         {url:"https://youtu.be/XAUBr0eegfQ?si=qf7YzCtRAtDtq0-R", label:"Bootstrap, Porque sí y porque no"},
         {url:"clases/clase07", label:"Archivos de Clase"},        
       ]
-    },,
+    },
     {
       nro: 8,
       titulo: "Bootstrap parte 2 - Componentes",
@@ -84,6 +84,17 @@
       relatedLinks:[
         {url:"https://getbootstrap.com/docs/5.3/components/", label:"Componentes Bootstrap"},
         {url:"clases/clase08/ejercicioBootstrap.jpg", label:"Ejercicio Maquetacion"},        
+      ]
+    },
+    {
+      nro: 9,
+      titulo: "plugins JS",
+      pptLink: "materiales/Clase09_2025_pluginsJS.pdf",
+      relatedLinks:[
+        {url:"https://fancyapps.com/fancybox/", label:"Fancybox"},
+        {url:"https://kenwheeler.github.io/slick/", label:"Slick JS"},
+        {url:"https://michalsnik.github.io/aos/", label:"AOS (Animate On Scroll)"},
+        {url:"https://animate.style/", label:"Animate CSS"}        
       ]
     },
     // {
