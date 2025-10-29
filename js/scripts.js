@@ -40,6 +40,7 @@
         {url:"https://css-tricks.com/snippets/css/a-guide-to-flexbox/", label:"Flexbox"},
         {url: "https://lenguajecss.com/css/grid/que-es-grid/", label:"Grid System CSS"},
         {url: "https://github.com", label:"Github"},
+        {url: "https://desktop.github.com/download/", label:"Github Desktop"},
         {url: "https://flexboxfroggy.com/#es", label:"Flexbox Froggy (🎮)"},
         {url: "https://codingfantasy.com/games/flexboxadventure/play", label:"Flexbox Adventura (🎮)"},
         {url: "https://cssgridgarden.com/#es", label:"Grid Garden (🎮)"},
@@ -94,7 +95,9 @@
         {url:"https://fancyapps.com/fancybox/", label:"Fancybox"},
         {url:"https://kenwheeler.github.io/slick/", label:"Slick JS"},
         {url:"https://michalsnik.github.io/aos/", label:"AOS (Animate On Scroll)"},
-        {url:"https://animate.style/", label:"Animate CSS"}        
+        {url:"https://animate.style/", label:"Animate CSS"},
+        {url:"https://swup.js.org/getting-started/installation/#esm",label:"Swup"},        
+        {url:"https://www.emailjs.com/docs/sdk/installation/",label:"EmailJS"}        
       ]
     },
     // {
