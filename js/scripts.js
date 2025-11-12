@@ -103,7 +103,7 @@
     {
       nro: 9,
       titulo: "Entrega Momento 3",
-      pptLink: "materiales/TPintegrador_Momento3-100%.pdf",
+      pptLink: "materiales/TPintegrador_Momento3.pdf",
       relatedLinks:[
         {url:"https://youtu.be/sLTNgxxSBR4?si=MBq5QM120AHWVn4G", label:"Deploy en Github Pages"},
         {url:"https://www.netlify.com/", label:"Netlify - Servidor Alternativo a G.Pages"},
